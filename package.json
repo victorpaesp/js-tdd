@@ -1,0 +1,23 @@
+{
+  "name": "curso-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorpaesp/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Victor Paes <victorpaesp@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorpaesp/js-tdd/issues"
+  },
+  "homepage": "https://github.com/victorpaesp/js-tdd#readme"
+}
