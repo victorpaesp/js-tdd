@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/victorpaesp/js-tdd/issues"
   },
-  "homepage": "https://github.com/victorpaesp/js-tdd#readme"
+  "homepage": "https://github.com/victorpaesp/js-tdd#readme",
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
 }
